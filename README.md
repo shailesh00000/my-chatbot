@@ -111,9 +111,9 @@ Initializes the conversation memory and LLM chain, storing them in the user sess
 Handles the steps of the conversational form, asking for and storing user information.
 
 **on_message Function:**
-Checks if a form is in progress, either managing the form or processing the message with the LLM chain.
+Check if a form is in progress, either managing the form or processing the message with the LLM chain.
 
 
 ## License
-This project is licensed under the MIT License. For more details, see the LICENSE file.
+This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/shailesh00000/my-chatbot/blob/main/LICENSE) file.
 
